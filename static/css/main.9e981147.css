@@ -16,7 +16,6 @@
 .side ul li {
     border-bottom: 1px solid #222;
     list-style: none;
-    padding: 10px;
     text-decoration: none !important;
 }
 
@@ -34,6 +33,7 @@
     .side ul li {
         border-bottom: none;
         border-right: 1px solid #222;
+        padding: 10px;
         white-space: nowrap;
     }
 
