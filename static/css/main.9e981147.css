@@ -22,6 +22,9 @@
 /* Responsive styles for mobile */
 @media (max-width: 768px) {
     /* Make menu horizontal */
+    .min-vh-100 {
+    min-height: auto !important;
+}
     .side ul {
         flex-direction: row;
         justify-content: space-around;
