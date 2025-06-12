@@ -25,6 +25,7 @@
     .min-vh-100 {
     min-height: auto !important;
 }
+    .side ul li a:hover, .side ul li a:active, .side ul li a:focus{color:#0d6efd;border-bottom: 1px solid #0d6efd;}
     .side ul {
         flex-direction: row;
         justify-content: space-around;
