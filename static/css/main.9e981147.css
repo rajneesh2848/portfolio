@@ -36,7 +36,7 @@
     .side ul li {
         border-bottom: none;
         border-right: 1px solid #222;
-        padding: 10px;
+        padding: 10px !important;
         white-space: nowrap;
     }
 
@@ -58,7 +58,9 @@
     .row {
         flex-direction: column;
     }
-
+.spar {
+    padding: 0 30px !important;
+}
     .hmt {
         width: 100%;
     }
