@@ -32,6 +32,9 @@
     .min-vh-100 {
     min-height: auto !important;
 }
+    .mar .col-sm-6 {
+        width: 100%;
+    }
         img.card-img-top {
         width: 100px !important;
     }
